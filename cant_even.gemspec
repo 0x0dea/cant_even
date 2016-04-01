@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.author     = 'D.E. Akers'
   s.email      = '0x0dea@gmail.com'
 
-  s.summary    = 'foo'
+  s.summary    = 'A library for reducing disparity.'
   s.homepage   = 'https://github.com/0x0dea/cant_even'
   s.license    = 'WTFPL'
 
